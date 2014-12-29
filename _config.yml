@@ -1,0 +1,13 @@
+# Site settings
+title: Ajay - Technical Blogs
+email: ajay_narang@outlook.com
+description: > # this means to ignore newlines until "baseurl:"
+ This site will maintain technical blogs, article in .Net/Web/Mobile arena.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: http://ajaynarang.github.io # the base hostname & protocol for your site
+twitter_username: ajayaashman
+github_username:  ajay_narang@outlook.com
+
+# Build settings
+markdown: kramdown
+highlighter: false
